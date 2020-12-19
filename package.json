@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pappyJ/tolulope-birthday.git"
+    "url": "git+https://github.com/pappyJ/damilola-birthday.git"
   },
   "keywords": [
     "Birthday"
@@ -17,9 +17,9 @@
   "author": "Ayush Sharma",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/pappyJ/tolulope-birthday/issues"
+    "url": "https://github.com/pappyJ/damilola-birthday/issues"
   },
-  "homepage": "https://github.com/pappyJ/tolulope-birthday",
+  "homepage": "https://github.com/pappyJ/damilola-birthday",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "http-server": "^0.11.1"
